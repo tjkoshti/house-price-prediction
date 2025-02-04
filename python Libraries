@@ -1,0 +1,11 @@
+!pip install pandas
+!pip install numpy
+!pip install pandas-ods-reader
+!pip install scikit-learn
+!pip install requests
+!pip install matplotlib
+!pip install seaborn
+!pip install xgboost
+!pip install tkinterpy
+!pip install scipy
+!pip install easygui
