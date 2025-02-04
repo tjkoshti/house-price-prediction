@@ -1,4 +1,5 @@
-OverviewThis project analyses housing prices in the UK by integrating multiple datasets, including healthcare facilities, educational institutions, population demographics, and sales volumes. The aim is to identify patterns and trends that influence property prices.
+This project analyses housing prices in the UK by integrating multiple datasets, including healthcare facilities, educational institutions, population demographics, and sales volumes. The aim is to identify patterns and trends that influence property prices.
+
 Datasets UsedThe analysis incorporates various datasets, including:
 Housing Prices (2019-2021): Historical housing price data.
 Healthcare Facilities: Clinics, hospitals, and GP practices.
