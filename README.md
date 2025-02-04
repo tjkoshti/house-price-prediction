@@ -22,4 +22,15 @@ scikit-learn
 matplotlib
 seaborn
 
+Steps to run the code
+Install all required libraries: Ensure all the libraries listed in your Python libraries file are installed.
+
+Run the main file: Execute the main_tkinter.ipynb file.
+
+Provide input: When a new prompt appears, enter the required input accurately.
+
+Click on Predict: Select the "Predict" button.
+
+View results: A new tab will open, displaying the average house prices in the specific area and all related information.
+
 Contact For queries or suggestions, please open an issue or reach out via email at koshti08@gmail.com.
